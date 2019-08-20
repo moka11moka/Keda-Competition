@@ -13,7 +13,9 @@ preprocessing:
 model:
 
 1: svm is not good
+
 2: xgboost is better than others
+
 
 validation:
 1:cross validation, 4
