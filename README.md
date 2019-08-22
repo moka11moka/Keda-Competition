@@ -1,5 +1,5 @@
-# Keda Xunfei competition
-This is a competition to predict the Alzheimer's disease holded by IFLYTEK CO.,LTD
+# Keda Xunfei competition about predicting Alzheimer's disease
+This is a competition to predict the Alzheimer's disease holded by a company
 developed by python
 
 preprocessing: 
